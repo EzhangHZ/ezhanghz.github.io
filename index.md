@@ -4,16 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello there!
+
+I'm a PhD student in College of Mechanical and Aerospace Engineering at Nanyang Technological University, Singapore. My research focuses on Human-Machine Interaction/Collaboration, and making machines have deeper understanding of human cognition and behavior.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Human-Machine Interaction (HMI):** interaction and perception between humans and machines in various collaborative settings
+- **Embodied Intelligence:** the ability of machines to perceive and interact with their environment in a human-like manner
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[2025/01]** I started my PhD research with [Prof. Lyu Chen](https://www.ntu.edu.sg/erian/about-us/our-people/cluster-directors/lyu-chen)'s [Automan](https://lvchen.wixsite.com/automan) group and NTU!
