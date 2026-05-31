@@ -1,17 +1,17 @@
 main:
+    # Conference Reviewers:
 
-  Conference Reviewers:
-    
-      - title: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023
-        link: http://cvpr2023.thecvf.com/
-      - title: IEEE/CVF International Conference on Computer Vision (ICCV) 2021
-        link: http://iccv2021.thecvf.com/
-      - title: European Conference on Computer Vision (ECCV) 2022
-        link: https://eccv2022.ecva.net/
+    #     - title: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023
+    #       link: http://cvpr2023.thecvf.com/
 
-  Journal Reviewers:
-
-      - title: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-        link: https://www.computer.org/csdl/journal/tp
-      - title: International Journal of Computer Vision (IJCV)
-        link: https://www.springer.com/journal/11263
+    Journal Reviewers:
+        - title: IEEE Robotics and Automation Letters
+          link: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369
+        - title: IEEE Transactions on Systems, Man, and Cybernetics
+          link: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021
+        - title: Journal of Field Robotics
+          link: https://onlinelibrary.wiley.com/journal/15564967
+        - title: IEEE Transactions on Automation Science and Engineering
+          link: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856
+        - title: Machine Intelligence Research
+          link: https://link.springer.com/journal/11633
